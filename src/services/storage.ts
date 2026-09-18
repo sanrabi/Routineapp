@@ -10,15 +10,15 @@ import {
 } from '../data/initialData';
 
 const STORAGE_KEYS = {
-  PROFILE: 'ssxsced',
-  NOTIFICATIONS: 'dayflow_notifications_v1',
+  PROFILE: 'scscs',
+  NOTIFICATIONS: 'cs',
   ROUTINE: 'dayflowine_v1',
   TASKS: 'dayflows_v1',
   MEALS: 'dayflow_meals_v1',
   WATER: 'd_water_v1',
-  HABITS: 'dcdcd',
-  NOTES: 'ded',
-  CUSTOM_FOODS: 'eer4eweeff',
+  HABITS: 'sxsxsxsxs',
+  NOTES: 'sxsx',
+  CUSTOM_FOODS: 'ssxsxs',
 };
 
 function safeGet<T>(key: string, fallback: T): T {
