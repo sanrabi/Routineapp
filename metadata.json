@@ -1,0 +1,6 @@
+{
+  "name": "DayFlow",
+  "description": "A daily lifestyle management mobile app to organize schedules, meals, healthy foods, snacks, water intake, daily habits, and personal notes in one place.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
