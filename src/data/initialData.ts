@@ -3,13 +3,13 @@ import { FoodItem, SnackItem, Habit, Task, MealLogItem, Note, DailyRoutineItem, 
 export const INITIAL_USER_PROFILE: UserProfile = {
   name: 'Alex Morgan',
   wakeUpTime: '06:30',
-  sleepTime: '22:30',
+  sleepTime: '23:30',
   dailyWaterGoal: 8,
   mealTimes: {
     breakfast: '08:30',
-    lunch: '13:00',
+    lunch: '14:00',
     snack: '16:30',
-    dinner: '20:00',
+    dinner: '21:00',
   },
   hasCompletedOnboarding: false, // will show onboarding on first launch or allow skipping
   theme: 'light',

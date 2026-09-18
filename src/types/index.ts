@@ -139,7 +139,7 @@ export interface NotificationSettings {
   lunch: boolean;
   snack: boolean;
   dinner: boolean;
-  water: boolean;
+  water: number;
   tasks: boolean;
   exercise: boolean;
   sleep: boolean;
